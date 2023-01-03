@@ -18,7 +18,7 @@
 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NextJS | PHP 
-- 💻 &nbsp; MySQL | MongoDB
+- 💻 &nbsp; MySQL
 - 🔧 &nbsp; Git | Visual Studio Code | Powershell
 
 <!--
